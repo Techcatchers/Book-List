@@ -2,7 +2,7 @@
 
 This project is built using HTML/CSS and Skeleton lightweight CSS Framework. It makes use of Vanilla Javascript to create, delete and manage your book collections on the go.
 
-**NOTE: This course work has been modified apart from the assigned MVP before getting upoaded on GitHub.**
+**NOTE: This course work has been modified apart from the assigned MVP before getting uploaded on GitHub.**
 
 ## Features
 
