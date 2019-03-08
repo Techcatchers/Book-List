@@ -1,0 +1,31 @@
+body {
+    color: rgb(143, 76, 14);
+}
+
+.success, .error {
+    color: white;
+    padding: 5px 10PX;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    font-weight: 1000;
+}
+
+h1 {
+    background: rgb(143, 76, 14);
+    color: white;
+    padding: 5px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
