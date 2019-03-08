@@ -12,4 +12,4 @@ This project is built using HTML/CSS and Materialize CSS Framework. It makes use
 
 ## Live Demo
 
-Here is the [Live Version]() of the Web App.
+Here is the [Live Version](https://techcatchers.github.io/Book-List/) of the Web App.
